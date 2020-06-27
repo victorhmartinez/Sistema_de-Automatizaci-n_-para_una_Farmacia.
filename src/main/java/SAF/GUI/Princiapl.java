@@ -17,5 +17,6 @@ public class Princiapl {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Hola probando Jankis");
         System.out.println("x2 esto es una prueba");
+        System.out.println("x3");
     }
 }
